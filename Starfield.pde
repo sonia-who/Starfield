@@ -70,7 +70,8 @@ class Particle {
       myX = 250;
       myY = 250;
       myA = Math.random() * 360;
-      myS = Math.random() * 7 + 2;
+       myS = Math.random() * 3 + 1;
+
     }
   }
 }
